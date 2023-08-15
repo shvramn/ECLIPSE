@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\shvra\Desktop\inversion_control"/>
+			<item value="C:\Users\shvra\eclipse-workspace\inversion_control"/>
+			<item value="C:\Users\Public\inversion_control"/>
+			<item value="C:\Users\inversion_control"/>
+			<item value="C:\Program Files\inversion_control"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\shvra\eclipse-workspace\springmvc"/>
+			<item value="C:\Users\shvra\eclipse-workspace\MyFirstMaven\src\main\java\com\setterinjection\MyFirstMaven\configmetadata.xml"/>
+			<item value="C:\Users\shvra\Desktop\inversion_control\src\main\java\com\example\inversion_control\InversionControlApplication.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.spring.springmvc"/>
+			<item value="com.spring.mydiary"/>
+			<item value="com.spring.springhibernate"/>
+			<item value="com.spring.springjdbc"/>
+			<item value="com.constructoinjection.MySecondMaven"/>
+			<item value="com.setterinjection.MyFirstMaven"/>
+			<item value="com.shiva.Nerchuko"/>
+		</list>
+		<list key="groupId">
+			<item value="com.spring"/>
+			<item value="com.constructoinjection"/>
+			<item value="com.setterinjection"/>
+			<item value="com.shiva"/>
+		</list>
+		<list key="artifactId">
+			<item value="springmvc"/>
+			<item value="mydiary"/>
+			<item value="springhibernate"/>
+			<item value="springjdbc"/>
+			<item value="MySecondMaven"/>
+			<item value="MyFirstMaven"/>
+			<item value="Nerchuko"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

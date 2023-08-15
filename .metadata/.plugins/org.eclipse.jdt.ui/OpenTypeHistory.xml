@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=springjdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.spring.springjdbc.business{StudentsBusiness.java[StudentsBusiness" modifiers="513" timestamp="1689178060038"/>
+    <typeInfo handle="=springjdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.spring.springjdbc.dao{StudentsDao.java[StudentsDao" modifiers="513" timestamp="1688966590040"/>
+    <typeInfo handle="=springjdbc/C:\/Users\/shvra\/.m2\/repository\/org\/springframework\/spring-jdbc\/5.0.8.RELEASE\/spring-jdbc-5.0.8.RELEASE.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-jdbc=/=/maven.version=/5.0.8.RELEASE=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.jdbc.core(RowMapper.class[RowMapper" modifiers="1537" timestamp="1689180667703"/>
+    <typeInfo handle="=springhibernate/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.spring.springhibernate.business{StudentsBusiness.java[StudentsBusiness" modifiers="513" timestamp="1689356712506"/>
+    <typeInfo handle="=springhibernate/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.spring.springhibernate.dao{StudentsDao.java[StudentsDao" modifiers="513" timestamp="1689356811250"/>
+</typeInfoHistroy>
